@@ -1,0 +1,190 @@
+﻿###########
+## Tmuratakan
+###########
+
+city_of_tmutarakan_01 = {
+
+construction_time = very_slow_construction_time
+
+type_icon = "icon_city_of_tmurtarakan.dds"
+
+character_modifier = {
+		stewardship = 3
+		stewardship_per_prestige_level = 1
+		monthly_county_control_growth_factor = 0.05
+	}
+	
+	county_modifier = {
+		tax_mult = 0.4
+		development_growth_factor = 0.3
+		development_growth = 0.3
+	}
+	
+	province_modifier = {
+		monthly_income = 4
+		garrison_size = 0.10
+		fort_level = 2
+	}
+	
+next_building = city_of_tmutarakan_02
+
+	ai_value = {
+		base = 100
+		modifier = { # Fill all building slots before going for special buildings
+			factor = 0
+			free_building_slots > 0
+		}
+	}
+	
+	type = special
+
+	flag = travel_point_of_interest_economic
+
+}
+
+city_of_tmutarakan_02 = {
+
+construction_time = very_slow_construction_time
+
+type_icon = "icon_city_of_tmurtarakan.dds"
+
+cost_gold = 3000
+
+character_modifier = {
+		stewardship = 3
+		stewardship_per_prestige_level = 1
+		monthly_county_control_growth_factor = 0.1
+	}
+	
+	county_modifier = {
+		tax_mult = 0.5
+		development_growth_factor = 0.4
+		development_growth = 0.4
+	}
+	
+	province_modifier = {
+		monthly_income = 6
+		garrison_size = 0.15
+		fort_level = 3
+	}
+	
+next_building = city_of_tmutarakan_03
+
+	ai_value = {
+		base = 100
+		modifier = { # Fill all building slots before going for special buildings
+			factor = 0
+			free_building_slots > 0
+		}
+	}
+	
+	type = special
+
+	flag = travel_point_of_interest_economic
+
+}
+
+city_of_tmutarakan_03 = {
+
+construction_time = very_slow_construction_time
+
+type_icon = "icon_city_of_tmurtarakan.dds"
+
+cost_gold = 3000
+
+character_modifier = {
+		stewardship = 3
+		stewardship_per_prestige_level = 1
+		monthly_county_control_growth_factor = 0.1
+	}
+	
+	county_modifier = {
+		tax_mult = 0.6
+		development_growth_factor = 0.5
+		development_growth = 0.5
+	}
+	
+	province_modifier = {
+		monthly_income = 8
+		garrison_size = 0.2
+		fort_level = 4
+	}
+	
+next_building = city_of_tmutarakan_04
+
+	ai_value = {
+		base = 100
+		modifier = { # Fill all building slots before going for special buildings
+			factor = 0
+			free_building_slots > 0
+		}
+	}
+	
+	type = special
+
+	flag = travel_point_of_interest_economic
+
+}
+
+city_of_tmutarakan_04 = {
+
+construction_time = very_slow_construction_time
+
+type_icon = "icon_city_of_tmurtarakan.dds"
+
+cost_gold = 3000
+
+character_modifier = {
+		stewardship = 3
+		stewardship_per_prestige_level = 1
+		monthly_county_control_growth_factor = 0.1
+	}
+	
+	county_modifier = {
+		tax_mult = 1
+		development_growth_factor = 0.6
+		development_growth = 0.6
+	}
+	
+	province_modifier = {
+		monthly_income = 10
+		garrison_size = 0.25
+		fort_level = 5
+	}
+	
+
+
+	ai_value = {
+		base = 100
+		modifier = { # Fill all building slots before going for special buildings
+			factor = 0
+			free_building_slots > 0
+		}
+	}
+	
+	type = special
+
+	flag = travel_point_of_interest_economic
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

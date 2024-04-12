@@ -1,0 +1,12 @@
+﻿l_english:
+ 
+building_type_city_of_tmutarakan_01:0 "City of Tmutarakan"
+building_type_city_of_tmutarakan_01_desc:0 "The City of Tmutarakan has a rich history of trade and cultural exchange, serving as a vital port . It was renowned for its strategic location and vibrant marketplace."
+building_city_of_tmutarakan_01:0 "$building_type_city_of_tmutarakan_01$"
+building_city_of_tmutarakan_01_desc:0 "$building_type_city_of_tmutarakan_01_desc$"
+building_city_of_tmutarakan_02:0 "$building_type_city_of_tmutarakan_01$"
+building_city_of_tmutarakan_02_desc:0 "$building_type_city_of_tmutarakan_01_desc$"
+building_city_of_tmutarakan_03:0 "$building_type_city_of_tmutarakan_01$"
+building_city_of_tmutarakan_03_desc:0 "$building_type_city_of_tmutarakan_01_desc$"
+building_city_of_tmutarakan_04:0 "$building_type_city_of_tmutarakan_01$"
+building_city_of_tmutarakan_04_desc:0 "$building_type_city_of_tmutarakan_01_desc$"
